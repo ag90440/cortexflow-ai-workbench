@@ -1,0 +1,532 @@
+# Source Files Reviewed
+
+This project was shaped by the uploaded learning packs. The source material was used as learning inspiration and topic coverage, not copied into the codebase.
+
+## GenAI course
+
+Total files inspected: 39
+
+- gen ai/1.course overview/Generative AI Roadmap.txt
+- gen ai/1.course overview/Screenshot 2026-05-12 225755.png
+- gen ai/10.Building AI Shopping Assistant/Build Your Own AI Shopping Assistant  Part 1.txt
+- gen ai/10.Building AI Shopping Assistant/Build Your Own AI Shopping Assistant  Part 2.txt
+- gen ai/10.Building AI Shopping Assistant/Screenshot 2026-05-13 000654.png
+- gen ai/11.Agent with Memory & Introduction to mcp/Building an Agent with Memory.txt
+- gen ai/11.Agent with Memory & Introduction to mcp/Introduction to Model Context Proto.txt
+- gen ai/11.Agent with Memory & Introduction to mcp/Screenshot 2026-05-13 001120.png
+- gen ai/2.Introduction to Generative AI/Gen AI in Action.txt
+- gen ai/2.Introduction to Generative AI/Introduction to Generative AI.txt
+- gen ai/2.Introduction to Generative AI/Screenshot 2026-05-12 230006.png
+- gen ai/3.advance Gen AI Capabilities/Exploring Gen AI Capabilities.txt
+- gen ai/3.advance Gen AI Capabilities/Power of Generative AI in Business.txt
+- gen ai/3.advance Gen AI Capabilities/Screenshot 2026-05-12 230829.png
+- gen ai/3.advance Gen AI Capabilities/Screenshot 2026-05-12 230843.png
+- gen ai/3.advance Gen AI Capabilities/Working with Files.txt
+- gen ai/4.Productivity Power-Up with AI Tools Prompt Engineering Fundamentals/Productivity Power-Up with AI Tools.txt
+- gen ai/4.Productivity Power-Up with AI Tools Prompt Engineering Fundamentals/Prompt Engineering Fundamentals.txt
+- gen ai/4.Productivity Power-Up with AI Tools Prompt Engineering Fundamentals/Screenshot 2026-05-12 231630.png
+- gen ai/4.Productivity Power-Up with AI Tools Prompt Engineering Fundamentals/Screenshot 2026-05-12 231637.png
+- gen ai/5.no code ai automation/advanced prompt engineering.txt
+- gen ai/5.no code ai automation/Building Social Media Content Automation Workflow.txt
+- gen ai/5.no code ai automation/Screenshot 2026-05-12 234336.png
+- gen ai/5.no code ai automation/Setting Up Google OAuth 2.0 for n8n.txt
+- gen ai/6.ai workflow for enhanced productivity/Build Your Own AI News Summarizer  Part 2.txt
+- gen ai/6.ai workflow for enhanced productivity/Build Your Own AI News Summarizer part 1.txt
+- gen ai/6.ai workflow for enhanced productivity/Screenshot 2026-05-12 234525.png
+- gen ai/7.Mastering Image Generation/Screenshot 2026-05-12 235053.png
+- gen ai/7.Mastering Image Generation/Screenshot 2026-05-12 235101.png
+- gen ai/8.Mastering AI Audio Generation Building No-Code Applications with AI/Building No-Code Applications with AI.txt
+- gen ai/8.Mastering AI Audio Generation Building No-Code Applications with AI/Mastering AI Audio Generation using F5-TTS.txt
+- gen ai/8.Mastering AI Audio Generation Building No-Code Applications with AI/Mastering AI Audio Generation.txt
+- gen ai/8.Mastering AI Audio Generation Building No-Code Applications with AI/Screenshot 2026-05-12 235211.png
+- gen ai/8.Mastering AI Audio Generation Building No-Code Applications with AI/Screenshot 2026-05-12 235228.png
+- gen ai/9.Building AI Agents/Building a Learning Path Generator.txt
+- gen ai/9.Building AI Agents/Introduction to AI Agents.txt
+- gen ai/9.Building AI Agents/Screenshot 2026-05-12 235949.png
+- gen ai/Screenshot 2026-05-12 224106.png
+- gen ai/Screenshot 2026-05-12 224129.png
+
+## Building LLM Applications course
+
+Total files inspected: 53
+
+- building llm applications/1.course overview/Screenshot 2026-05-13 011659.png
+- building llm applications/1.course overview/Your Learning Journey.txt
+- building llm applications/10.Building Multi Agent Systems and llm evaluation/Building a Game Development Crew.txt
+- building llm applications/10.Building Multi Agent Systems and llm evaluation/Building Multi Agent Systems Using Crew AI.txt
+- building llm applications/10.Building Multi Agent Systems and llm evaluation/Introduction to LLM Application Evaluation  Part 1.txt
+- building llm applications/10.Building Multi Agent Systems and llm evaluation/Introduction to LLM Application Evaluation  Part 2.txt
+- building llm applications/10.Building Multi Agent Systems and llm evaluation/Screenshot 2026-05-18 015055.png
+- building llm applications/10.Building Multi Agent Systems and llm evaluation/Screenshot 2026-05-18 015105.png
+- building llm applications/10.Building Multi Agent Systems and llm evaluation/Screenshot 2026-05-18 015115.png
+- building llm applications/10.Building Multi Agent Systems and llm evaluation/Screenshot 2026-05-18 015516.png
+- building llm applications/11.Running Models Locally and fine tuning llm/fine-tuning llms.txt
+- building llm applications/11.Running Models Locally and fine tuning llm/Running Models Locally.txt
+- building llm applications/11.Running Models Locally and fine tuning llm/Screenshot 2026-05-18 015815.png
+- building llm applications/11.Running Models Locally and fine tuning llm/Screenshot 2026-05-18 015822.png
+- building llm applications/2.Building LLM Applications Using Python/Building LLM Applications using Python part 1.txt
+- building llm applications/2.Building LLM Applications Using Python/Building LLM Applications using Python part 2.txt
+- building llm applications/2.Building LLM Applications Using Python/Screenshot 2026-05-13 011738.png
+- building llm applications/3.Building UI and Deploying LLM Applications/Building UI for LLM Applications.txt
+- building llm applications/3.Building UI and Deploying LLM Applications/Deploying LLM Applications.txt
+- building llm applications/3.Building UI and Deploying LLM Applications/Screenshot 2026-05-13 012203.png
+- building llm applications/4.Understanding How LLMs Work & Enhancing Productivity with AI/Enhancing Productivity with AI.txt
+- building llm applications/4.Understanding How LLMs Work & Enhancing Productivity with AI/Screenshot 2026-05-13 012503.png
+- building llm applications/4.Understanding How LLMs Work & Enhancing Productivity with AI/Screenshot 2026-05-13 012518.png
+- building llm applications/4.Understanding How LLMs Work & Enhancing Productivity with AI/Understanding How LLMs Work  Part1.txt
+- building llm applications/4.Understanding How LLMs Work & Enhancing Productivity with AI/Understanding How LLMs Work Part 2.txt
+- building llm applications/5.Tool Use & Function Calling in LLMs/Effective Prompting Techniques.txt
+- building llm applications/5.Tool Use & Function Calling in LLMs/Screenshot 2026-05-14 035302.png
+- building llm applications/5.Tool Use & Function Calling in LLMs/Screenshot 2026-05-14 035344.png
+- building llm applications/5.Tool Use & Function Calling in LLMs/Tool Use & Function Calling in LLMs.txt
+- building llm applications/6.Introduction to LangChain and  Retrieval-Augmented Generation(RAG)/Introduction to  Retrieval-Augmented Generation(RAG) part 1.txt
+- building llm applications/6.Introduction to LangChain and  Retrieval-Augmented Generation(RAG)/Introduction to  Retrieval-Augmented Generation(RAG) part 2.txt
+- building llm applications/6.Introduction to LangChain and  Retrieval-Augmented Generation(RAG)/Introduction to LangChain.txt
+- building llm applications/6.Introduction to LangChain and  Retrieval-Augmented Generation(RAG)/Screenshot 2026-05-14 035708.png
+- building llm applications/6.Introduction to LangChain and  Retrieval-Augmented Generation(RAG)/Screenshot 2026-05-14 035735.png
+- building llm applications/6.Introduction to LangChain and  Retrieval-Augmented Generation(RAG)/Screenshot 2026-05-14 035901.png
+- building llm applications/6.Introduction to LangChain and  Retrieval-Augmented Generation(RAG)/Screenshot 2026-05-14 035916.png
+- building llm applications/6.Introduction to LangChain and  Retrieval-Augmented Generation(RAG)/Screenshot 2026-05-14 040222.png
+- building llm applications/7.Building AI Agents Using LangChain && Memory Agent/AI In The Real World.txt
+- building llm applications/7.Building AI Agents Using LangChain && Memory Agent/Building AI Agents Using LangChai.txt
+- building llm applications/7.Building AI Agents Using LangChain && Memory Agent/Building Memory Agent using Langchain.txt
+- building llm applications/7.Building AI Agents Using LangChain && Memory Agent/Screenshot 2026-05-18 013951.png
+- building llm applications/7.Building AI Agents Using LangChain && Memory Agent/Screenshot 2026-05-18 014000.png
+- building llm applications/8.Building an AI-Powered Conversational Interview Assistant && rag agent/Building an AI-Powered Conversational Interview Assistant part 1.txt
+- building llm applications/8.Building an AI-Powered Conversational Interview Assistant && rag agent/Building an AI-Powered Conversational Interview Assistant part 2.txt
+- building llm applications/8.Building an AI-Powered Conversational Interview Assistant && rag agent/Building RAG Agent Using LangChain.txt
+- building llm applications/8.Building an AI-Powered Conversational Interview Assistant && rag agent/Screenshot 2026-05-18 014555.png
+- building llm applications/8.Building an AI-Powered Conversational Interview Assistant && rag agent/Screenshot 2026-05-18 014606.png
+- building llm applications/9.Introduction to Context Engineering && MCP/Integrating MCP.txt
+- building llm applications/9.Introduction to Context Engineering && MCP/Introduction to Context Engineering.txt
+- building llm applications/9.Introduction to Context Engineering && MCP/Screenshot 2026-05-18 014804.png
+- building llm applications/Screenshot 2026-05-13 001432.png
+- building llm applications/Screenshot 2026-05-13 001444.png
+- building llm applications/Screenshot 2026-05-13 001451.png
+
+## Complete GenAI pack
+
+Total files inspected: 256
+
+- complete gen ai/042accd5-ff55-4030-acf1-e28ecfcb7f0f_2048x1143.webp
+- complete gen ai/044bb52b-1d5f-44fd-b6c0-e01fa0d393d2_1178x768.webp
+- complete gen ai/0475afed-6dde-470a-ba4b-1936f09917b2_952x535.webp
+- complete gen ai/05738b84-f3c1-43d4-a706-6ed0ae52f5ef_2048x1143.webp
+- complete gen ai/072e8c1c-10f6-494a-9b1a-e12a712d30b1_2828x1556.webp
+- complete gen ai/079d79dd-6c06-46da-9ef0-4381e3eb43e1_1847x484.webp
+- complete gen ai/07c1b897-b673-4cc5-a8a6-88a608fcae32_2048x986.webp
+- complete gen ai/08322369-dba8-4e77-9919-1189d8841814_888x474.webp
+- complete gen ai/08412c15-d48c-4414-88f1-12b7de36fc1d_900x350.webp
+- complete gen ai/09f697c2-73fc-4568-b927-b501b4c43fb4_1024x559.webp
+- complete gen ai/0b02de19-77d2-4558-8cde-d4734b10a08b_2064x576.webp
+- complete gen ai/0b6d104f-f42f-4f31-86ed-7fc7865f326f_800x800.webp
+- complete gen ai/0bcfac1c-e378-4710-876f-03418ce17dc1_2048x1143.webp
+- complete gen ai/0db7a304-d595-40a5-82ae-a2dedc9cd11d_960x380.webp
+- complete gen ai/0fb581f0-3474-4542-a0b1-db367cdd92be_1200x600.webp
+- complete gen ai/10455755-c944-4356-bbcc-978ec327ac68_800x420.webp
+- complete gen ai/13dba869-5e2d-4ee5-8635-c7914ebe28bf_570x666.webp
+- complete gen ai/15fb51f5-e743-42dc-b4ed-cd5e9601746a_1204x182.webp
+- complete gen ai/1781354039268.jpg
+- complete gen ai/1a819e29-78da-49c2-ab3c-725638fc4f84_1502x570.webp
+- complete gen ai/1b550550-01fd-41c9-b6c8-ece6cc8adbe2_1696x608.webp
+- complete gen ai/1c3e0dbd-54f5-4ebf-98e4-de39d9f6f3fb_1080x1080.webp
+- complete gen ai/1cca6e35-8df8-49b2-a2a1-277e2202da6e_1376x768.webp
+- complete gen ai/210f8437-443d-470d-9317-ef321a1814e9_1632x507.webp
+- complete gen ai/2147e859-b9a1-4a5e-b3a5-b73b58ec9aa4_1080x1080.webp
+- complete gen ai/224202ec-78af-409e-b926-aeef281cff43_1600x883.webp
+- complete gen ai/23d76175-b112-41eb-88fc-f23e06878733_2816x1536.webp
+- complete gen ai/244a234b-7085-4ac5-ae83-4a49c35d3810_2048x1143.webp
+- complete gen ai/261798a3-0b8b-4805-ac8b-00817488b602_905x560.webp
+- complete gen ai/27f70135-3e80-4905-9fcc-d41cfe5e1cf5_1600x893.webp
+- complete gen ai/283169d2-99c4-4a06-8f5d-400a67802149_800x800.webp
+- complete gen ai/28809feb-c484-45a6-a7ef-ca9c42d63270_6912x3456.webp
+- complete gen ai/2f4f5fbf-f7bc-44d2-8584-e48359581ac5_2048x1143.webp
+- complete gen ai/3052a8ca-5e5f-4f13-89f5-ca70877342dd_1024x611.webp
+- complete gen ai/3139f56f-9d20-4c77-9f2d-2509f46b58bf_1600x873.webp
+- complete gen ai/317f1e41-a15b-4682-9de6-da170fbd1b73_800x800.webp
+- complete gen ai/3269bec0-6bac-4c6f-b955-9494da321811_1536x1024.webp
+- complete gen ai/32e6c2c2-9afe-4ec4-b7dc-e5ed9aab6029_2048x1063.webp
+- complete gen ai/342c7659-8bd7-4aa9-9080-7d23204859d0_1536x1024.webp
+- complete gen ai/34a55cbf-704a-4d97-9fda-66a87891be43_2048x1143.webp
+- complete gen ai/35ba5c9a-414a-4b3a-8cf6-a811a3035f4d_2048x1143.webp
+- complete gen ai/3668bf0d-3235-4c20-a96a-bded02328b88_1080x1080.webp
+- complete gen ai/36bd3215-0100-4043-9ebd-0589949a309a_2048x1143.webp
+- complete gen ai/38cfa3b9-e640-4482-8d32-3670e5270818_1560x573.webp
+- complete gen ai/39eff2da-de63-42f3-99cf-a5c0a70e864d_1080x1080.webp
+- complete gen ai/3c9b440e-b881-48dd-9112-d01514ca2351_920x420.webp
+- complete gen ai/3d61bab7-a4da-4892-8a67-080836b7d8c2_920x480.webp
+- complete gen ai/3de6f794-154e-4dcd-947b-447dbd773ae8_2000x447.webp
+- complete gen ai/3f52d3f2-d314-42aa-9bba-36ec44ee396c_1610x632.webp
+- complete gen ai/4216f281-5cca-4a0b-a9a7-25992d4b09fc_5031x637.webp
+- complete gen ai/43c44bbf-94b0-44d7-aade-29d96f19d18c_2048x1143.webp
+- complete gen ai/44d8abaf-2c06-4df1-b9ee-58cdab0fe20c_952x557.webp
+- complete gen ai/45.jpg
+- complete gen ai/452ce4e9-e157-4e53-8a67-c9c487aef607_2048x841.webp
+- complete gen ai/45ca0a2b-f1b1-487b-8049-d82793dcce7f_800x800.webp
+- complete gen ai/469ee9d9-9f58-4087-83b9-4de7bc04627c_2048x1736.webp
+- complete gen ai/471a919e-22c9-4d02-a463-710c9c24d20b_2816x1536.webp
+- complete gen ai/474f0511-24cc-46b3-8e83-8710903c09e4_1952x1018.webp
+- complete gen ai/47682dab-1a18-45f2-b475-7ccb4dd5a3ac_2048x1374.webp
+- complete gen ai/486d08e4-bbdd-4953-ae30-f91435a1c864_1282x936.webp
+- complete gen ai/487ff2a2-c404-4702-bcc5-e57fcd255586_2816x1536.webp
+- complete gen ai/4aba498a-1d9e-4dfe-86f9-b33c151a1aec_1022x646.webp
+- complete gen ai/4d1b8027-9826-43dd-ac5f-7ddb18b1aeb0_800x800.webp
+- complete gen ai/4ff0e8be-613f-4384-bece-ba4a24264626_1662x946.webp
+- complete gen ai/5035cd68-c9ad-41bd-8d81-381d6e6bffb7_3821x885.webp
+- complete gen ai/50ac6e9d-d48d-403a-aafa-40092392d779_1280x720.webp
+- complete gen ai/51317335-9e16-430c-9319-261a5fedccd0_1050x604.webp
+- complete gen ai/555a0173-02bf-4359-b0cd-8bf5b78cad8e_2573x1570.webp
+- complete gen ai/55ff0034-3085-49e0-94f7-a6c9f6053079_1600x874.webp
+- complete gen ai/59b4f090-5343-4484-8587-ff1e0c52fecd_900x400.webp
+- complete gen ai/5a433f39-f555-4918-ae88-660c27499e2f_1080x1080.webp
+- complete gen ai/5a701a24-4259-4ec6-aedb-20cc0fe22fc6_1600x883.webp
+- complete gen ai/5a9c3934-f3bc-4b6f-b8d5-7d34672a77f8_1600x1069.webp
+- complete gen ai/5d432949-04c9-45ad-90c4-f38c402589b6_1200x630.webp
+- complete gen ai/5f117c2a-b8b0-4435-9f1f-1c64583bf8a0_2048x1143.webp
+- complete gen ai/5f5bede3-8763-4d0f-8cc0-be1dc77bd073_1080x1080.webp
+- complete gen ai/602c6fef-d9d1-4e7f-82dd-674e34d78ed9_1376x768.webp
+- complete gen ai/6337a830-7cfd-437c-a23d-24bf10f7dafb_2048x1143.webp
+- complete gen ai/63ab9928-1357-4153-9177-2b989698e930_1220x904.webp
+- complete gen ai/648d45e8-992a-492a-8c95-7a75358a52e0_800x800.webp
+- complete gen ai/6631f37b-c4f7-4264-8db5-e80359018de6_1320x718.webp
+- complete gen ai/67591d8b-7039-4b2c-bc24-23b7d5581f6a_2048x1143 (1).webp
+- complete gen ai/67591d8b-7039-4b2c-bc24-23b7d5581f6a_2048x1143.webp
+- complete gen ai/6f260630-0170-423a-b556-3864bf000e68_2048x1064.webp
+- complete gen ai/6f659f9a-ad05-41bf-ad19-3aa5fb54ea19_1080x1080.webp
+- complete gen ai/6febedb8-ffda-4774-ba15-d43508d9e98c_960x440.webp
+- complete gen ai/71c4d104-7c9a-4562-a117-61951eab0353_2048x1282.webp
+- complete gen ai/72b4c95a-3713-4961-aecd-583635e1917c_1080x1080.webp
+- complete gen ai/7459c5b4-5fc5-4e9a-811b-2b4faeb9e2d4_5003x1095.webp
+- complete gen ai/747cffd3-08ec-44ee-a4d2-24f783f58b73_900x450.webp
+- complete gen ai/7656418c-27d5-478a-9eba-6ba00c041844_2048x867.webp
+- complete gen ai/77387cc1-ff47-45fd-a0d7-a925acd69fd0_1456x769.webp
+- complete gen ai/77518a96-9b79-43ab-a198-c6cc21f05b5a_2048x1139.webp
+- complete gen ai/78184073-45b0-4490-ab5c-016f6851f7b9_2048x1143.webp
+- complete gen ai/78b5a135-e435-4de2-94ce-774eb5b5da7f_1164x848.webp
+- complete gen ai/7905437a-565b-4195-a9d0-6e25ea4a573b_1282x782.webp
+- complete gen ai/79e9753b-b5af-4812-98e6-16fb1e25ba9a_2048x1143.webp
+- complete gen ai/7a282e1e-16b7-4166-abce-a65712862097_1320x718.webp
+- complete gen ai/7bd8f8e2-10eb-4520-9733-e86572689676_1080x1080.webp
+- complete gen ai/7dcb031b-4dd8-4c5f-97ae-ff4fbc113d60_1600x893.webp
+- complete gen ai/7e223603-ff7b-4d22-a737-85e4475e5576_2048x1143.webp
+- complete gen ai/7fb3aca7-ad8f-474c-802b-2263e9b97578_1.webp
+- complete gen ai/7fb3aca7-ad8f-474c-802b-2263e9b97578_1019x594.webp
+- complete gen ai/815a3a64-4b3d-460f-b9df-3c22133ad28c_2048x832.webp
+- complete gen ai/821e9ca3-44bb-4aae-87c9-26d932f2f67a_1280x720.webp
+- complete gen ai/822f0b1f-d688-4fb0-8ba0-bec0204098c5_2368x2205.webp
+- complete gen ai/83dd5846-a6c1-4f4b-981a-6e658532c63f_2048x1143.webp
+- complete gen ai/842b7a0b-5509-476c-8620-6635c3f33748_1280x720.webp
+- complete gen ai/84386bdc-f6c4-4b49-8b7f-dfdca0ec27ae_900x400.webp
+- complete gen ai/84d92cfd-1760-4649-be74-d520026df78f_1536x1024.webp
+- complete gen ai/85edadd3-1c48-4baa-8cfc-3288ba15b2e9_800x800.webp
+- complete gen ai/8689a3ea-a350-49aa-9458-3dfaea3b0828_2816x1536.webp
+- complete gen ai/877d1123-8fa3-4d5e-a27c-ae925290ec79_920x420.webp
+- complete gen ai/89296f27-68e3-4dce-9026-8740b013e686_5039x1530.webp
+- complete gen ai/895c7209-c7f9-4a88-8bb5-840ce8fb8cab_2048x1335.webp
+- complete gen ai/899ede7f-be95-405f-a63f-01a36fe7eef7_1400x400.webp
+- complete gen ai/8a437160-dbf9-40e5-be22-9a2f8f0d236a_2048x1117.webp
+- complete gen ai/8cc8ba0d-9314-456b-876d-9a7ff7a680a2_1024x559.webp
+- complete gen ai/8e0ef293-a3c7-49ab-afbb-3f8cac35a88c_1600x954.webp
+- complete gen ai/8e4b8073-a62a-4298-8504-d83bb1837574_1080x1080.webp
+- complete gen ai/8fd9d0d3-9527-4566-97b1-c33581ecea06_1080x1080.webp
+- complete gen ai/9105ef28-954b-49e9-8e5a-166a8d25c75e_569x471.webp
+- complete gen ai/912095e9-be3f-47dc-bed8-0c3307cc6d6e_1376x768.webp
+- complete gen ai/92090a8d-4fd2-49ae-bc3e-7b0af2dfd424_2048x1237.webp
+- complete gen ai/945c67bb-57b2-4483-833d-686bc3f5eb27_7625x1550.webp
+- complete gen ai/950277a9-34c2-4e96-8552-9bfdd7b1b780_2048x979.webp
+- complete gen ai/960d80a2-9761-4e00-afd3-dd2d09fb6776_712x592.webp
+- complete gen ai/97a1bc5e-e8e9-460f-a72b-9cf92adfeab2_1376x768.webp
+- complete gen ai/9a99d97c-2cf5-46bf-9ca0-01ecf4f39c1c_1600x653.webp
+- complete gen ai/9b1b40b7-c53e-4ff4-9f14-36febfed17f7_2048x1143.webp
+- complete gen ai/9b7149fc-f94f-45dc-8c5d-71b015930724_5248x1820.webp
+- complete gen ai/9e0fb2b2-0f68-4fbe-9ebc-eb650d508ef3_800x800.webp
+- complete gen ai/9eef4f52-5d1b-48a1-bdcb-afba97d54e77_1376x768.webp
+- complete gen ai/9f0855fc-6cbc-4f3f-a9e5-f7c73cf5ac43_4686x824.webp
+- complete gen ai/9f49b966-316c-493b-a39d-9c8004e6a7b5_1376x768.webp
+- complete gen ai/a006f272-a38b-4e14-8ce7-cf8c001524b2_920x430.webp
+- complete gen ai/a064efd7-4ab2-4f7f-bd29-544199ef4fc7_2048x1117.webp
+- complete gen ai/a2143778-624a-46fa-8af4-f4967218c3ea_920x480.webp
+- complete gen ai/a292bbf0-706e-4cef-897f-85cafbd160ea_1376x768.webp
+- complete gen ai/a32018b9-bc1c-4f65-904a-03b5bd261cd9_2048x1143.webp
+- complete gen ai/a36a7bd8-101c-4a26-99a9-1dcfcf06b9ab_2048x1143.webp
+- complete gen ai/a3cacd49-09f7-4843-bfd4-8e6827d62fdc_1200x628.webp
+- complete gen ai/a414d3d1-1153-4ce9-8008-bc03f0d68a2c_1600x883.webp
+- complete gen ai/a47e92cb-a04c-4777-b053-6053d444e0b2_1376x768.webp
+- complete gen ai/a56e779c-0fa0-4bba-b950-203d27617524_1080x1080.webp
+- complete gen ai/a64b4dc0-691b-4730-9eef-16f175a02a01_960x480.webp
+- complete gen ai/a6a27e3c-8949-4224-85c0-9febbca8935b_5231x937.webp
+- complete gen ai/ab01a97d-4c2b-4b3b-8e7f-4f23a319f7b0_1600x893.webp
+- complete gen ai/acc3ee84-81f0-4aee-b557-8a1b67028431_1376x768.webp
+- complete gen ai/ad1c0a07-611b-4233-b37f-fc68eeb37f38_811x804.webp
+- complete gen ai/agentic patterns.txt
+- complete gen ai/AI Agent Workflow.txt
+- complete gen ai/AI Agents Design.txt
+- complete gen ai/AI Agents Memory, State & Consisten.txt
+- complete gen ai/AI Coding Workflow 101.txt
+- complete gen ai/awf.webp
+- complete gen ai/b166b263-d288-4723-abb3-aec0cca7a706_1045x797.webp
+- complete gen ai/b1dd8c41-63ae-462d-909b-88c7fe3a950c_1000x340.webp
+- complete gen ai/b267dd3a-6c63-4b54-9c77-1d4a7eb8975a_1536x1024.webp
+- complete gen ai/b2eb3f62-4db9-4e39-be8f-70728cc4ffc0_4452x585.webp
+- complete gen ai/b3047317-3942-4040-a94a-37a128f98afb_1280x720.webp
+- complete gen ai/b6dd836d-90af-432d-9b8b-86d7b7205d91_5889x780.webp
+- complete gen ai/b7671b38-8b6a-4a7b-b78d-bc99b15ffda1_920x560.webp
+- complete gen ai/b874f7a0-536e-4051-8c7a-b31c8ab2b993_1600x893.webp
+- complete gen ai/b95cf045-9819-4032-b782-816ea117eca9_700x500.webp
+- complete gen ai/b96d53d2-8ad8-4f48-bbae-0c63940bab00_1520x1028.webp
+- complete gen ai/b986d1a5-0eea-42a0-bc34-0df71234fde9_920x420.webp
+- complete gen ai/bae4b9cc-72d5-456b-97b3-979225d8f227_668x564.webp
+- complete gen ai/bd7e6e4d-7e57-4425-a72f-31a8f6dbda20_1038x636.webp
+- complete gen ai/c11f1708-6683-4fc7-aae0-0aba06ac8cea_800x800.webp
+- complete gen ai/c2060cd6-9ebc-4ae1-b5ae-db4dfe6b0de0_1536x1024.webp
+- complete gen ai/c3fa6951-5079-460d-a054-bc9a4e3a65e3_1300x305.webp
+- complete gen ai/c72e5012-2d43-4050-a019-8a5ffcc9d087_2048x1143.webp
+- complete gen ai/c7388cd2-038b-4bb9-af67-2dd27746cea3_104.webp
+- complete gen ai/c7388cd2-038b-4bb9-af67-2dd27746cea3_1046x605.webp
+- complete gen ai/c9cedf74-ec5d-4e64-9114-2550a77d66dd_1380x752.webp
+- complete gen ai/ca8333b7-c6a3-4013-8ef0-286c955fbacb_1536x691.webp
+- complete gen ai/cbb0b502-1581-4457-a7b5-3a2c000688c6_2048x1251.webp
+- complete gen ai/ccbf27ab-cea5-4105-81c0-4fe848b50c7e_1456x880.webp
+- complete gen ai/ce7838a3-f42e-4ec5-af88-a9e81a156f0a_1272x1012.webp
+- complete gen ai/cf1ba5ed-75db-4ebf-92bb-02be0eeac108_1080x1080.webp
+- complete gen ai/cf639991-f806-4226-8b8d-7a44589a4d87_750x580.webp
+- complete gen ai/Context Engineering Fundamentals.txt
+- complete gen ai/d058b6c7-0ac0-4749-8f5d-1eee2de48ede_1130x512.webp
+- complete gen ai/d1ee5d86-6ee9-471b-a6ae-535fe2ed82b2_2048x822.webp
+- complete gen ai/d20f319d-3412-489f-8095-f8e7389c9cf7_1080x1080.webp
+- complete gen ai/d48e1488-5a16-4112-befc-45c84c20f193_2048x972.webp
+- complete gen ai/d668dc1a-7bf5-4288-915e-a47909aa570e_2048x1143.webp
+- complete gen ai/d6eb35d9-1632-4c90-9271-4a7dff5d0819_5032x1090.webp
+- complete gen ai/d7786926-7277-4fd4-ad3e-0265e1de9dba_1376x768.webp
+- complete gen ai/d91bda6d-d735-434b-be85-6372893b86ad_2048x1143.webp
+- complete gen ai/d99a9f7f-11e6-4c1a-9214-d705f4839451_2048x964.webp
+- complete gen ai/daef5547-0cc8-4aac-8b74-e3897aeedadf_900x400.webp
+- complete gen ai/daf7586f-88a2-42d2-a535-496ebb1a5c75_900x400.webp
+- complete gen ai/dbbde039-281b-4bda-892f-f9edd169f9ae_800x800.webp
+- complete gen ai/dd297624-bd7f-46f3-a16a-e275fa07aa9c_700x520.webp
+- complete gen ai/Design AI Chat Assistant.txt
+- complete gen ai/Design Knowledge Q&A System.txt
+- complete gen ai/e0cf2a4e-6d51-41ba-bb0c-6abd43321882_2048x1073.webp
+- complete gen ai/e0ea2dda-8ceb-4d0e-80bd-4979dd0db11a_1080x1080.webp
+- complete gen ai/e1c753bb-86da-49e5-83ff-4bd21e9bc386_1600x878.webp
+- complete gen ai/e41f8e0d-5d59-4234-af58-79f14eb72ba0_1376x768.webp
+- complete gen ai/e4fc3e29-9d95-4c17-a252-ca24be2f50ed_4446x2080.webp
+- complete gen ai/e51f486a-b335-4be7-a373-ebb3d34e0d77_1075x790.webp
+- complete gen ai/e57110e2-e885-4734-846e-e39c5a985cfb_5396x410.webp
+- complete gen ai/e685afea-7383-45d1-b2ab-eb6899b9c9b1_8192x1310.webp
+- complete gen ai/e688c960-0428-484f-84b7-56c011f17898_2816x1536.webp
+- complete gen ai/e6f8b6ec-1bc5-4670-9b25-3c2d782f1098_2048x1143.webp
+- complete gen ai/ea0fb247-5a41-4c75-b22a-c7570de02078_68.webp
+- complete gen ai/ea0fb247-5a41-4c75-b22a-c7570de02078_681x225.webp
+- complete gen ai/eb716c4e-0ed2-4d98-879a-67a05a730ae1_920x520.webp
+- complete gen ai/ecaf2528-c7fd-43e5-b180-1a562c618553_2048x1358.webp
+- complete gen ai/ecdc99fd-ea28-44a6-a856-d394adf0dc97_600x621.webp
+- complete gen ai/ed4ecfa7-e093-4172-aee3-1e747dec5c90_2048x1491.webp
+- complete gen ai/ed8fb466-1f3c-4b9e-bac7-4263a52e6037_1080x1080.webp
+- complete gen ai/ee59d528-eb06-4bac-b934-4eabe279e7e6_1280x720.webp
+- complete gen ai/ee8281ae-7c62-4bbe-a88f-550f8baebc94_920x500.webp
+- complete gen ai/ef275e7b-9e9d-4e8d-a9ad-b63e6343cc6e_2816x1536.webp
+- complete gen ai/efbd84a1-eff7-4e5f-b722-39ece86cf588_1192x766.webp
+- complete gen ai/efefad33-4314-4f7b-972f-7d0fde84b7e2_1000x500.webp
+- complete gen ai/f00574b1-e8af-4d07-9cf9-fdb050d36d7d_2048x608.webp
+- complete gen ai/f3d77f20-c556-4b76-b7fa-b4d875ab7f74_958x563.webp
+- complete gen ai/f3ddcf51-7070-46fe-9046-f09a6eb4a1ad_960x380.webp
+- complete gen ai/f3de60e6-1faf-463f-8f17-98d3deeb7b36_2048x904.webp
+- complete gen ai/f443012f-0aef-4ef3-855e-95fe3aba6ecb_2048x1033.webp
+- complete gen ai/f481074a-8563-4b97-b28e-c70ebf53f0f6_2048x1068.webp
+- complete gen ai/f6267f7a-b8e7-4e49-a22c-fdf552153f73_1080x1080.webp
+- complete gen ai/f89df4ea-1b94-48b8-bc84-bd819f68a31d_1080x1080 (1).webp
+- complete gen ai/f89df4ea-1b94-48b8-bc84-bd819f68a31d_1080x1080.webp
+- complete gen ai/fa9d5ab2-3aee-4bad-bee9-d5f0ecbf53a9_2048x1154.webp
+- complete gen ai/fac50153-fc51-46f5-9080-7a641e343052_1390x134.webp
+- complete gen ai/fb44f7f9-f66b-4af5-8681-7582076ac083_1376x768.webp
+- complete gen ai/fcf11fbf-73e2-4f22-8e9e-73de8051904b_1080x1080.webp
+- complete gen ai/fd17cbfe-8fda-45bf-afeb-b4a4bb6c8ff9_2048x1009.webp
+- complete gen ai/ffd37a94-e18c-499e-8097-16dec45a32ce_928x601.webp
+- complete gen ai/fj.webp
+- complete gen ai/How AI Agents Work.txt
+- complete gen ai/how mcp works.txt
+- complete gen ai/How OpenClaw Works.txt
+- complete gen ai/how rag works.txt
+- complete gen ai/How Vector Databases Work.txt
+- complete gen ai/image (1).jpg
+- complete gen ai/image.jpg
+- complete gen ai/knsaglksf.webp
+- complete gen ai/LLM Concepts - A Deep Dive.txt
+- complete gen ai/LLM Evals Explained.txt
+- complete gen ai/Machine Learning System Design 101.txt
+- complete gen ai/Multi-Agent Architecture Explained.txt
+- complete gen ai/sfknlf.webp
+- complete gen ai/sfs.webp
+- and 6 more files
+
+## Expanded AI Engineer pack
+
+Total files inspected: 166
+
+- AI_Engineer_2026_Course_Content_Expanded_v2/00_START_HERE/00_Start_Here_Roadmap_and_Gap_Analysis.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/00_START_HERE/01_Full_Course_Roadmap.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/00_START_HERE/02_Source_Coverage_Matrix_and_Study_Plan.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/01_LLM_Evals_EvalOps/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/01_LLM_Evals_EvalOps/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/01_LLM_Evals_EvalOps/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/01_LLM_Evals_EvalOps/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/02_Knowledge_QA_RAG/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/02_Knowledge_QA_RAG/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/02_Knowledge_QA_RAG/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/02_Knowledge_QA_RAG/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/03_OpenClaw_Computer_Use/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/03_OpenClaw_Computer_Use/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/03_OpenClaw_Computer_Use/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/03_OpenClaw_Computer_Use/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/04_AI_Agent_Workflow/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/04_AI_Agent_Workflow/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/04_AI_Agent_Workflow/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/04_AI_Agent_Workflow/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/05_MCP_Tool_Use/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/05_MCP_Tool_Use/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/05_MCP_Tool_Use/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/05_MCP_Tool_Use/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/06_AI_Chat_Assistant/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/06_AI_Chat_Assistant/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/06_AI_Chat_Assistant/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/06_AI_Chat_Assistant/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/07_Advanced_RAG_Vector_DB/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/07_Advanced_RAG_Vector_DB/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/07_Advanced_RAG_Vector_DB/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/07_Advanced_RAG_Vector_DB/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/08_Agentic_Patterns/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/08_Agentic_Patterns/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/08_Agentic_Patterns/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/08_Agentic_Patterns/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/09_AI_Coding_Workflow/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/09_AI_Coding_Workflow/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/09_AI_Coding_Workflow/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/09_AI_Coding_Workflow/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/10_ML_System_Design/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/10_ML_System_Design/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/10_ML_System_Design/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/10_ML_System_Design/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/11_Multi_Agent_Architecture/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/11_Multi_Agent_Architecture/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/11_Multi_Agent_Architecture/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/11_Multi_Agent_Architecture/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/12_How_AI_Agents_Work/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/12_How_AI_Agents_Work/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/12_How_AI_Agents_Work/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/12_How_AI_Agents_Work/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/13_Vector_Database_101/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/13_Vector_Database_101/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/13_Vector_Database_101/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/13_Vector_Database_101/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/14_Agent_Memory_State_Consistency/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/14_Agent_Memory_State_Consistency/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/14_Agent_Memory_State_Consistency/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/14_Agent_Memory_State_Consistency/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/15_AI_Agent_Design/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/15_AI_Agent_Design/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/15_AI_Agent_Design/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/15_AI_Agent_Design/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/16_Context_Engineering/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/16_Context_Engineering/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/16_Context_Engineering/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/16_Context_Engineering/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/17_RL_RLHF_DPO_GRPO/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/17_RL_RLHF_DPO_GRPO/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/17_RL_RLHF_DPO_GRPO/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/17_RL_RLHF_DPO_GRPO/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/18_LLM_Concepts_Deep_Dive/00_Full_Course_Deep_Dive.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/18_LLM_Concepts_Deep_Dive/Full_Course_Module/01_Theory_and_Framework.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/18_LLM_Concepts_Deep_Dive/Full_Course_Module/02_Implementation_and_Labs.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/18_LLM_Concepts_Deep_Dive/Full_Course_Module/03_Project_Metrics_Traps_Interview.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/19_Capstone_Projects/Project_1_Enterprise_Knowledge_QA_System_Full_Project.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/19_Capstone_Projects/Project_2_MCP_Tool_Using_Agent_Full_Project.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/19_Capstone_Projects/Project_3_Multi_Agent_AIOps_Coding_Assistant_Full_Project.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/19_Capstone_Projects/Project_4_EvalOps_Dashboard_Full_Project.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/20_Interview_Portfolio/AI_Engineer_2026_Practice_Question_Bank.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/20_Interview_Portfolio/AI_Engineer_Interview_Portfolio_Playbook.docx
+- AI_Engineer_2026_Course_Content_Expanded_v2/21_Starter_Code_Projects/starter_projects/mini_agentic_rag_stack/README.md
+- AI_Engineer_2026_Course_Content_Expanded_v2/21_Starter_Code_Projects/starter_projects/mini_agentic_rag_stack/app/agent.py
+- AI_Engineer_2026_Course_Content_Expanded_v2/21_Starter_Code_Projects/starter_projects/mini_agentic_rag_stack/app/demo.py
+- AI_Engineer_2026_Course_Content_Expanded_v2/21_Starter_Code_Projects/starter_projects/mini_agentic_rag_stack/app/evals.py
+- AI_Engineer_2026_Course_Content_Expanded_v2/21_Starter_Code_Projects/starter_projects/mini_agentic_rag_stack/app/retrieval.py
+- AI_Engineer_2026_Course_Content_Expanded_v2/21_Starter_Code_Projects/starter_projects/mini_agentic_rag_stack/app/schemas.py
+- AI_Engineer_2026_Course_Content_Expanded_v2/21_Starter_Code_Projects/starter_projects/mini_agentic_rag_stack/app/tools.py
+- AI_Engineer_2026_Course_Content_Expanded_v2/21_Starter_Code_Projects/starter_projects/mini_agentic_rag_stack/requirements.txt
+- AI_Engineer_2026_Course_Content_Expanded_v2/21_Starter_Code_Projects/starter_projects/mini_agentic_rag_stack/tests/test_retrieval.py
+- AI_Engineer_2026_Course_Content_Expanded_v2/MANIFEST.txt
+- AI_Engineer_2026_Course_Content_Expanded_v2/README.md
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Agent_Memory_State_and_Consistency_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Agent_Memory_State_and_Consistency_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Agent_Memory_State_and_Consistency_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Agent_Memory_State_and_Consistency_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Agent_Workflow_and_How_AI_Agents_Work_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Agent_Workflow_and_How_AI_Agents_Work_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Agent_Workflow_and_How_AI_Agents_Work_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Agent_Workflow_and_How_AI_Agents_Work_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Coding_Workflow_101_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Coding_Workflow_101_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Coding_Workflow_101_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/AI_Coding_Workflow_101_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Advanced_RAG_and_Vector_Database_Playbook_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Advanced_RAG_and_Vector_Database_Playbook_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Advanced_RAG_and_Vector_Database_Playbook_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Advanced_RAG_and_Vector_Database_Playbook_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Agentic_Patterns_and_AI_Agent_Design_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Agentic_Patterns_and_AI_Agent_Design_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Agentic_Patterns_and_AI_Agent_Design_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Agentic_Patterns_and_AI_Agent_Design_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Capstone_Project_1_Enterprise_Knowledge_Q_A_System_fig0.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Capstone_Project_1_Enterprise_Knowledge_Q_A_System_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Capstone_Project_2_MCP_Tool_Using_Agent_fig0.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Capstone_Project_2_MCP_Tool_Using_Agent_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Capstone_Project_3_Multi_Agent_AIOps_Coding_Assistant_fig0.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Capstone_Project_3_Multi_Agent_AIOps_Coding_Assistant_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Capstone_Project_4_EvalOps_Dashboard_for_LLM_Apps_fig0.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Capstone_Project_4_EvalOps_Dashboard_for_LLM_Apps_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Context_Engineering_Fundamentals_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Context_Engineering_Fundamentals_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Context_Engineering_Fundamentals_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Context_Engineering_Fundamentals_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Designing_a_Knowledge_Q_A_System_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Designing_a_Knowledge_Q_A_System_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Designing_a_Knowledge_Q_A_System_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Designing_a_Knowledge_Q_A_System_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Designing_an_AI_Chat_Assistant_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Designing_an_AI_Chat_Assistant_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Designing_an_AI_Chat_Assistant_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Designing_an_AI_Chat_Assistant_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/LLM_Concepts_Deep_Dive_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/LLM_Concepts_Deep_Dive_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/LLM_Concepts_Deep_Dive_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/LLM_Concepts_Deep_Dive_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/LLM_Evals_Production_Playbook_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/LLM_Evals_Production_Playbook_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/LLM_Evals_Production_Playbook_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/LLM_Evals_Production_Playbook_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/MCP_Tool_Use_and_Function_Calling_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/MCP_Tool_Use_and_Function_Calling_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/MCP_Tool_Use_and_Function_Calling_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/MCP_Tool_Use_and_Function_Calling_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Machine_Learning_System_Design_for_AI_Engineers_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Machine_Learning_System_Design_for_AI_Engineers_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Machine_Learning_System_Design_for_AI_Engineers_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Machine_Learning_System_Design_for_AI_Engineers_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Multi_Agent_Architecture_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Multi_Agent_Architecture_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Multi_Agent_Architecture_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Multi_Agent_Architecture_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/OpenClaw_and_Computer_Use_Agent_Architecture_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/OpenClaw_and_Computer_Use_Agent_Architecture_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/OpenClaw_and_Computer_Use_Agent_Architecture_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/OpenClaw_and_Computer_Use_Agent_Architecture_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Reinforcement_Learning_RLHF_DPO_and_GRPO_for_AI_Engineers_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Reinforcement_Learning_RLHF_DPO_and_GRPO_for_AI_Engineers_fig1.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Reinforcement_Learning_RLHF_DPO_and_GRPO_for_AI_Engineers_fig2.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/Reinforcement_Learning_RLHF_DPO_and_GRPO_for_AI_Engineers_fig3.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/interview_portfolio_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/roadmap_18_concepts_cover.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/assets/selected_figures/roadmap_18_concepts_original.jpg
+- AI_Engineer_2026_Course_Content_Expanded_v2/pack_stats.json
+- AI_Engineer_2026_Course_Content_Expanded_v2/source_coverage_matrix.csv
+- AI_Engineer_2026_Course_Content_Expanded_v2/source_inventory.json

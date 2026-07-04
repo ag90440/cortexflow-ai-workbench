@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rag-001",
+    "question": "Which metrics should be tracked for RAG evaluation?",
+    "expected_terms": [
+      "groundedness",
+      "citation",
+      "latency"
+    ],
+    "reference_answer": "RAG should track retrieval quality, groundedness, citation coverage, answer correctness, latency, safety, and cost."
+  },
+  {
+    "id": "agent-001",
+    "question": "How should an AI agent execute write tools safely?",
+    "expected_terms": [
+      "approval",
+      "schema",
+      "audit"
+    ],
+    "reference_answer": "Write tools should use schemas, validation, permissions, human approval when needed, idempotency, and audit logs."
+  },
+  {
+    "id": "mcp-001",
+    "question": "What does an MCP style interface expose to agents?",
+    "expected_terms": [
+      "tools",
+      "resources",
+      "prompts"
+    ],
+    "reference_answer": "An MCP style interface exposes tools, resources, and prompts through a standard contract."
+  }
+]

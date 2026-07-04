@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+data/runtime/*.jsonl
+data/runtime/chunks.json
+data/runtime/rag_traces.json
+data/runtime/memory.json
+data/runtime/tickets.json
+data/runtime/retrieval_bandit.json

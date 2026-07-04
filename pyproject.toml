@@ -1,0 +1,9 @@
+[project]
+name = "cortexflow-ai-workbench"
+version = "1.0.0"
+description = "A local-first AI engineering workbench covering RAG, agents, MCP, evals, memory, multi-agent systems, RL strategy tuning, computer-use planning, and fine-tuning data export."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
